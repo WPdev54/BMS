@@ -1,11 +1,12 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + NextUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "Bangladesh Minecraft Society - Minecraft Network",
+  description: "We Are The Minecraft First Server In Bangladesh Which Is Not A Pay To Win Server Instead It Is A Play To Win Server So You Can So That Can Show Your Skills For Your Progress And Show The Entire Server How You Play The Game .  As This Is Not Pay-To-Win Server We Can Buy Ranks By Using Our Skills Like It Is A Economy Based Server ",
   navItems: [
     {
       label: "Home",
+      icon: `<TiHomeOutline />`, 
       href: "/",
     },
     {
