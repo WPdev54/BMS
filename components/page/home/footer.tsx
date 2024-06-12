@@ -9,7 +9,8 @@ const Footer = () => {
         <div className="md:w-2/3 w-full px-4 text-white flex flex-col">
           <div className="w-full text-9xl font-bold">
             <div className="flex w-full text-9xl items-center justify-center bg-black1">
-              <span className="animate-pulse absolute mx-auto py-4 flex border w-fit bg-gradient-to-r blur-xl from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-7xl box-content font-extrabold text-transparent text-center select-none">
+              <span className="animate-pulse 
+              absolute mx-auto py-4 flex border w-fit bg-gradient-to-r blur-xl from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-7xl box-content font-extrabold text-transparent text-center select-none">
                 Want To Play , Join Our Comminuty
               </span>
               <h1 className="relative top-0 w-fit h-auto py-4 justify-center flex bg-gradient-to-r items-center from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-7xl font-extrabold text-transparent text-center select-auto">
@@ -22,7 +23,7 @@ const Footer = () => {
               radius="full"
               className="bg-gradient-to-tr from-pink-500 to-yellow-500 px-7 text-white shadow-lg"
             >
-              <Link href="#" href="https://discord.gg/mcbd">
+              <Link  href="https://discord.gg/mcbd">
               Join Discord Server
               </Link>
             </Button>
@@ -85,7 +86,7 @@ const Footer = () => {
                     />
                   </svg>
                 </Link>
-                <Link href="#" href="https://www.youtube.com/channel/UCjtCbnkIaiCJgj13sEZ9iqw">
+                <Link href="https://www.youtube.com/channel/UCjtCbnkIaiCJgj13sEZ9iqw">
                   <svg
                     width="13"
                     height="9"
