@@ -43,7 +43,7 @@ const VoteLinks = () => {
               </CardBody>
               <Divider />
               <CardFooter>
-                <Link isExternal showAnchorIcon href={v.link}>
+                <Link isExternal showAnchorIcon>
                   Vote
                 </Link>
               </CardFooter>
