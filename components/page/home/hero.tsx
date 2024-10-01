@@ -14,7 +14,7 @@ const Hero = () => {
               </span>
               <h1 className="text-6xl leading-[rem] mx-5 font-black">
           <span className="text-[2.2rem] mb-5 text-transparent bg-clip-text bg-gradient-to-tl from-[#05cf76] via-[#6de730] to-[#00ffa4]">
-            Bangladesh Minecraft Society <br />
+            Bangla Network <br />
           </span>
           <span>
             Play Limitless And <br />
@@ -24,7 +24,7 @@ const Hero = () => {
           <span>
             {" "}
             <Snippet symbol="" className="capitalize" variant="flat">
-            PLAY.MINECRAFTBANGLADESH.COM
+            PLAY.BANGLANETWORK.XYZ
             </Snippet>
           </span>
         </h1>

@@ -29,7 +29,7 @@ export const Navbar = () => {
         <NavbarBrand as="li" className="gap-3 max-w-fit">
           <NextLink className="flex justify-start items-center gap-1" href="/">
             <p className="font-black text-2xl bg-clip-text text-transparent bg-gradient-to-tr from-purple-400 to-green-400">
-              BMS
+              BANGLA NETWORK
             </p>
           </NextLink>
         </NavbarBrand>

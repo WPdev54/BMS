@@ -2,7 +2,7 @@ import React from "react";
 
 const Branding = () => {
   return (
-   <div className="relative">
+   <div className={`relative Rubik `}>
    
    <div className="font-Minecraft  grid grid-cols-12 my-20 select-none gap-4">
       <div className="col-span-2">
@@ -16,18 +16,15 @@ const Branding = () => {
             <img className="bg-gray-700" src="/ping.png" alt="" />
           </div>
         </div>
-        <p>
+        <p className="text-center">
           <span className="text-[20px] mb-5 text-transparent bg-clip-text bg-gradient-to-tl from-[#0dda9f] via-[#1cc2c4] to-[#c34dfb] font-bold">
-            Bangladesh{" "}
+            Bangla{" "}
           </span>
           <span className="text-[20px] mb-5 text-transparent bg-clip-text bg-gradient-to-tl from-[#05cf76] via-[#6de730] to-[#00ffa4] font-bold">
-            Minecraft{" "}
-          </span>
-          <span className="text-[20px] mb-5 text-transparent bg-clip-text bg-gradient-to-tl from-[#c9eee4] via-[#797a7a] to-[#bfb4c4] font-bold">
-            Society{" "}
+            Network{" "}
           </span>
         </p>
-        <p className="leading-3">
+        <p className="leading-3 text-center">
           <span className="text-[20px] mb-5 text-transparent bg-clip-text bg-gradient-to-tl from-[#c9eee4] via-[#797a7a] to-[#bfb4c4] font-bold">
             ---==={" "}
           </span>

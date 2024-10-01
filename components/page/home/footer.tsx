@@ -33,7 +33,7 @@ const Footer = () => {
               <div className="">
               <Link href="#" className=" transition-all duration-250 capitalize flex justify-start items-center gap-1">
             <p className="font-black text-2xl bg-clip-text text-transparent bg-gradient-to-tr from-purple-400 to-green-400">
-              BMS
+              BANGLA NETWORK
             </p>
           </Link>
               </div>
@@ -104,7 +104,7 @@ const Footer = () => {
             </div>
             <hr className="border-gray-600" />
             <p className="w-full text-center my-12 text-gray-600">
-              Copyright © 2024 BMS - Bangladesh Minecraft Society
+              Copyright © 2024 BANGLA NETWORK - Bangla Network
             </p>
           </div>
         </div>

@@ -21,6 +21,11 @@ export const navbars = [
     icon: <FaVoteYea />,
     href: "/voting",
   },
+  {
+    name: "Ranks",
+    icon: "🛒",
+    href : "ranks"
+  }
 ];
 
 export const faq = [
@@ -40,26 +45,26 @@ export const faq = [
 export const voteLinks = [
   {
     protocol:"minecraft-server.net",
-    link:"https://minecraft-server.net/vote/BMS/"
+    // link:"https://minecraft-server.net/vote/BANGLA NETWORK/"
   },
   {
     protocol:"topminecraftservers.org",
-    link:"https://topminecraftservers.org/server/36502"
+    // link:"https://topminecraftservers.org/server/36502"
   },
   {
     protocol:"serverpact.com",
-    link:"https://www.serverpact.com/vote-47628"
+    // link:"https://www.serverpact.com/vote-47628"
   },
   {
     protocol:"minecraft-mp.com",
-    link:"https://minecraft-mp.com/server/328425/vote/"
+    // link:"https://minecraft-mp.com/server/328425/vote/"
   },
   {
     protocol:"https://minecraftservers.org/vote/658926",
-    link:"minecraftservers.org"
+    // link:"minecraftservers.org"
   },
   {
     protocol:"topg.org",
-    link:"https://topg.org/minecraft-servers/server-660611"
+    // link:"https://topg.org/minecraft-servers/server-660611"
   },
 ]
